@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80960268860",
+    "project_id": "davaleba-5-4",
+    "storage_bucket": "davaleba-5-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80960268860:android:0832b5413c6b14002b7139",
+        "android_client_info": {
+          "package_name": "com.example.loginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80960268860-890annkmbjqp8kstfq14p77k8co5hhps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAggc4b3VxaLUy_JDcl8aX13WiQ3X18lHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80960268860-890annkmbjqp8kstfq14p77k8co5hhps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
